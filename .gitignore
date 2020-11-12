@@ -40,4 +40,4 @@ sysinfo.txt
 Assets/StreamingAssets/crashlytics-build.properties
 
 # Zip used in upload templates for altspace
-template.zip
+*.zip
