@@ -551,6 +551,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 4875785164482917073, guid: 6bce4b85168fd2d4fb591b07249ef29c,
+        type: 3}
+      propertyPath: m_ApplyRootMotion
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4875785164482917085, guid: 6bce4b85168fd2d4fb591b07249ef29c,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -624,6 +629,16 @@ PrefabInstance:
     - target: {fileID: 4875785165379055727, guid: 6bce4b85168fd2d4fb591b07249ef29c,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5289999450757901603, guid: 6bce4b85168fd2d4fb591b07249ef29c,
+        type: 3}
+      propertyPath: m_ApplyRootMotion
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5289999450757901603, guid: 6bce4b85168fd2d4fb591b07249ef29c,
+        type: 3}
+      propertyPath: m_UpdateMode
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5289999450757901615, guid: 6bce4b85168fd2d4fb591b07249ef29c,
